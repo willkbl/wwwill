@@ -5,4 +5,4 @@ Welcome to Will Kibel's website.
 
 links to add: github, spotify, youtube, ????
 
-need: blog, games page, music page, resume page
+need: games page, music page, blog, resume page
