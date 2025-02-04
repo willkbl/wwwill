@@ -1,10 +1,16 @@
-﻿# Will Kibel
+---
+title: 'Will Kibel - Home'
+layout: 'layouts/home.html'
+---
+
+
+# Will Kibel
 Welcome to Will Kibel's website.
 
 This website is a WORK IN PROGRESS. More updates will be coming soon.
 
 
-<!--
+
 ### How it's going so far
 Web dev is a daunting thing to get into. I have little to no experience with it right now, and I worry about whether I'll be able to get this project off the ground or not. I'm not exactly a great developer, but I'm hopeful that if I commit to it, I can get this project up and running, and not just have a functional website but _understand_ how I got there in the first place.
 
