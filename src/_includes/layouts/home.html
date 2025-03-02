@@ -1,22 +1,52 @@
-{% extends "layouts/base.html" %}
+{% extends "layouts/base.html" %} 
+
 {% block content %}
-<article class="intro">
-	<div class="[ intro__header ] [ radius frame ]">
-		<h1 class="[ intro__heading ] [ weight-normal text-400 md:text-600 ]">
-			{{ intro.eyebrow }}
-			<em class="text-800 md:text-900 lg:text-major weight-bold">{{ intro.main }}</em>
-		</h1>
+<div class="wrapper">
+  <article class="intro">
+    <div class="[ intro__header ] [ radius frame ]">
+      <h1 class="[ intro__heading ] [ weight-normal text-400 md:text-600 ]">
+        {{ intro.eyebrow }}
+        <em class="text-800 md:text-900 lg:text-major weight-bold">{{ intro.main }}</em>
+      </h1>
+    </div>
+    <div class="[ intro__content ] [ flow ]">
+      <p class="intro__summary">{{ intro.summary }}</p>
+      <a href="{{ intro.buttonUrl }}" class="button">{{ intro.buttonText }}</a>
+    </div>
+	<!--
+	<div>
+		<h3 id="how-it-s-going-so-far">How it&#39;s going so far</h3>
+		<p>Web dev is a daunting thing to get into. I have little to no experience with it right now, and I worry about whether I&#39;ll be able to get this project off the ground or not. I&#39;m not exactly a great developer, but I&#39;m hopeful that if I commit to it, I can get this project up and running, and not just have a functional website but <em>understand</em> how I got there in the first place.</p>
+		<p>I&#39;m starting slow, just trying to learn the basics of how Markdown works (not that it&#39;s all that involved, but it&#39;s still something I need to get used to).</p>
+		<p>My next step, I think, is twofold - get CSS working (so the site looks nicer), and get links working (so I can have multiple pages and navigate through them). Those are both top priorities right now.</p>
+		<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5pTIY1jtLnat5X6hktFT0CbEa6RJKuWy_hg&amp;s" alt="A picture of a young Will Kibel"></p>
+		<p>I&#39;m not sure how the formatting is going to work<br>with CSS and everything, but for now I suppose<br>I can just try to make things aligned right myself</p>
+		<p><a href="https://fkawill.itch.io">itch.io</a> | <a href="https://soundcloud.com/adrastea">soundcloud</a></p>
 	</div>
-	<div class="[ intro__content ] [ flow ]">
-		<p class="intro__summary">{{ intro.summary }}</p>
-		<a href="{{ intro.buttonUrl }}" class="button">{{ intro.buttonText }}</a>
-	</div>
+	-->
+    <div class="[ intro__media ] [ radius dot-shadow ]">
+      <img
+        class="[ intro__image ] [ radius ]"
+        src="{{ intro.image }}"
+        alt="{{ intro.imageAlt }}"
+      />
+    </div>
 	<div class="[ intro__media ] [ radius dot-shadow ]">
 		<img
-			class="[ intro__image ] [ radius ]"
-			src="{{ intro.image }}"
-			alt="{{ intro.imageAlt }}"
+			class="[ intro__image2 ] [ radius ]"
+			src="{{ intro.image2 }}"
+			alt="{{ intro.imageAlt2 }}"
 		/>
-	</div>
-</article>
+		</div>
+  </article>
+</div>
+
+
+
+{% set ctaContent = primaryCTA %} 
+{% include "partials/cta.html" %} 
+
+{% set ctaContent = cta %} 
+{% include "partials/cta.html" %} 
+
 {% endblock %}
