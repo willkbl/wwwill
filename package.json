@@ -1,0 +1,23 @@
+{
+  "name": "wwwill",
+  "version": "1.0.0",
+  "description": "A personal website, located at [wwwill.org](wwwill.org).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willkbl/wwwill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willkbl/wwwill/issues"
+  },
+  "homepage": "https://github.com/willkbl/wwwill#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
