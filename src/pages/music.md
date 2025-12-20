@@ -1,5 +1,5 @@
 ---
-title: "coming soon"
+title: "will kibel"
 ---
 
 I'm sick of seeing "Getting Started."
