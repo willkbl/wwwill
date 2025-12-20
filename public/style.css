@@ -1,0 +1,23 @@
+.container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 400px;
+    margin-left: 400px;
+    min-width: 500px;
+    /*maybe replace with flex*/
+}
+body {
+    background-color: rgb(43, 29, 61);
+    color: rgb(220, 220, 220);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color: rgb(240, 240, 240);
+}
+h1 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-variant-caps: normal;
+}

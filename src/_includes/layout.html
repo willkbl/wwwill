@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title | default: "wwwill kibel" }}</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1><a href="../index.html">{{ title | default: "will kibel" }}</a>
+					<!--index.html link does not work from blog posts-->
+			</header>
+			<main>
+				{{ content }}
+			</main>
+			<footer> <!--this is so sloppy rn-->
+				<p><a href="mailto:will.kibel@wwwill.org" target="_blank">Email</a>
+					&nbsp; &nbsp; &nbsp; <a href="https://github.com/willkbl" target="_blank">Github</a></p>
+			</footer>
+		</div>
+	</body>
+</html>
