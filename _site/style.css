@@ -16,6 +16,10 @@ a {
 }
 h1 {
     text-align: center;
+    margin-bottom: -10px;
+}
+h3 {
+    text-align: center;
 }
 footer {
     text-align: center;

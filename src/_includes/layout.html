@@ -9,11 +9,20 @@
 	<body>
 		<div class="container">
 			<header>
-				<h1>{{ title | default: "will kibel" }}
+				<h1>{{ title | default: "will kibel" }}</h1>
 					<!--
 					index.html link does not work from blog posts
-					<a href="/index.html"></a>
+					
 					-->
+				<p>
+					<!--
+					nav links
+					-->
+					<h3>
+						<a href="/index.html">home</a>
+						&nbsp; &nbsp; &nbsp; <a href="/blog/index.html">blog</a>
+					</h3>
+				</p>
 			</header>
 			<main>
 				{{ content }}
