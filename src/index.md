@@ -11,7 +11,7 @@ TO RUN:
 Here is the front page for my website. Woohoo!
 
 
-If you've somehow stumbled upon this website while this message is still present, it is very much still a work in progress.
+If you've somehow stumbled upon this website while this message is still present, it is very much still a work in progress. This website uses the Eleventy framework, but because of my lack of web prowess, it's mostly just HTML and CSS.
 
 
 My name is Will Kibel. I make music, write, and work on video games.
@@ -23,7 +23,7 @@ skills, but I'm working on it.
 Stay tuned.
 
 
-{% for post in collections.posts %}
+{% for page in collections.pages %}
 
-- [{{ post.data.title }}]({{ post.url }})
+- [{{ page.data.title }}]({{ page.url }})
   {% endfor %}
