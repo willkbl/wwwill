@@ -9,8 +9,11 @@
 	<body>
 		<div class="container">
 			<header>
-				<h1><a href="/index.html">{{ title | default: "will kibel" }}</a>
-					<!--index.html link does not work from blog posts-->
+				<h1>{{ title | default: "will kibel" }}
+					<!--
+					index.html link does not work from blog posts
+					<a href="/index.html"></a>
+					-->
 			</header>
 			<main>
 				{{ content }}
