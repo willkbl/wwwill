@@ -21,6 +21,12 @@ h1 {
 h3 {
     text-align: center;
 }
+h4 {
+    font-size: large;
+}
+h5 {
+    margin-top: -20px;
+}
 footer {
     text-align: center;
     font-variant-caps: normal;
