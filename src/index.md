@@ -1,6 +1,6 @@
 ---
 layout: layout.html
-title: "wwwill kibel"
+title: "home"
 ---
 
 <!--
