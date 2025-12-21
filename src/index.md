@@ -8,6 +8,12 @@ TO RUN:
     npx @11ty/eleventy --serve
 -->
 
+
+<p align="center">
+  <img width=200 height=200 src="images/me.png" />
+</p>
+
+
 Here is the front page for my website. Woohoo!
 
 
