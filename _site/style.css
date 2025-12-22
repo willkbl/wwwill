@@ -22,7 +22,7 @@ body {
 }
 body > * {
     margin-inline: auto;
-    width: min(800px, 100%);
+    width: min(900px, 100%);
 }
 a {
     color: rgb(240, 240, 240);
