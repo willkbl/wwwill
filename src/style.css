@@ -1,5 +1,5 @@
 .container {
-    margin-top: 40px;
+    /*margin-top: 40px;
     margin-bottom: 40px;
     margin-right: 400px;
     margin-left: 400px;
@@ -10,6 +10,19 @@ body {
     background-color: rgb(43, 29, 61);
     color: rgb(220, 220, 220);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    min-height: 100%;
+    margin: 0px;
+    padding: 1rem;
+}
+body > * {
+    margin-inline: auto;
+    width: min(800px, 100%);
 }
 a {
     color: rgb(240, 240, 240);
