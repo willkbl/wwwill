@@ -37,6 +37,6 @@ Here's where you can find my music! I release electronic music under the alias "
 release date: 1/12/2026 \
 &nbsp; \
 <audio controls>
-    <source src="/src/music/digital-her.mp3" type="audio/mpeg">
+    <source src="/music/digital-her.mp3" type="audio/mpeg">
     Your browser doesn't support this audio!
 </audio>
