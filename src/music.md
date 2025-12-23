@@ -3,6 +3,7 @@ layout: layout.html
 title: "music"
 ---
 
+&nbsp; \
 Here's where you can find my music! I release electronic music under the alias "adrast" and pretty much every other type of music under the name "Will Kibel" -- as well as playing in a few bands in the Boston area.
 
 ---
@@ -20,7 +21,6 @@ Here's where you can find my music! I release electronic music under the alias "
 [bandcamp](https://adrast.bandcamp.com/) &nbsp; 
 [instagram](https://www.instagram.com/adrastmusic/) &nbsp; 
 
-### bands
 **Superpink** &nbsp; | &nbsp; 
 [instagram](https://www.instagram.com/superpinksucks/) \
 **Figment** &nbsp; | &nbsp; 
@@ -31,3 +31,11 @@ Here's where you can find my music! I release electronic music under the alias "
 
 ---
 
+## releases
+
+### adrast - digital her
+release date: 1/12/2026 \
+&nbsp; \
+<audio controls>
+    <source src="/src/music/digital her.mp3" type="audio/mpeg">
+</audio>
