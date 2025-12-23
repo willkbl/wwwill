@@ -7,19 +7,27 @@ Here's where you can find my music! I release electronic music under the alias "
 
 ---
 
-### quick links
+## quick links
 
-#### solo
-Will Kibel | [spotify]() [youtube]() [instagram]()
+**Will Kibel** &nbsp; | &nbsp; 
+[spotify]() &nbsp; 
+[youtube]() &nbsp; 
+[instagram]() \
+**adrast** &nbsp; | &nbsp; 
+[spotify]() &nbsp; 
+[soundcloud](https://soundcloud.com/adrastea) &nbsp; 
+[youtube]() &nbsp; 
+[bandcamp](https://adrast.bandcamp.com/) &nbsp; 
+[instagram](https://www.instagram.com/adrastmusic/) &nbsp; 
 
-adrast | [spotify]() [soundcloud](https://soundcloud.com/adrastea) [youtube]() [bandcamp](https://adrast.bandcamp.com/) [instagram](https://www.instagram.com/adrastmusic/)
-
-#### bands
-Superpink | [instagram](https://www.instagram.com/superpinksucks/)
-
-Figment | [instagram](https://www.instagram.com/morethanafigment/)
-
-Linda's | [instagram]() [spotify]()
+### bands
+**Superpink** &nbsp; | &nbsp; 
+[instagram](https://www.instagram.com/superpinksucks/) \
+**Figment** &nbsp; | &nbsp; 
+[instagram](https://www.instagram.com/morethanafigment/) \
+**Linda's** &nbsp; | &nbsp; 
+[instagram]() &nbsp; 
+[spotify]()
 
 ---
 

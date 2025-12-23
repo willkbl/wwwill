@@ -1,10 +1,11 @@
 .container {
-    /*margin-top: 40px;
+    /*
+    margin-top: 40px;
     margin-bottom: 40px;
     margin-right: 400px;
     margin-left: 400px;
     min-width: 500px;
-    /*maybe replace with flex*/
+    */
 }
 body {
     background-color: rgb(43, 29, 61);
@@ -27,11 +28,14 @@ body > * {
 a {
     color: rgb(240, 240, 240);
 }
-h1 {
+.site-title {
     text-align: center;
     margin-bottom: -10px;
 }
-h3 {
+.site-nav {
+    text-align: center;
+}
+h2 {
     text-align: center;
 }
 h4 {
