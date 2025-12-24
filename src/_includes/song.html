@@ -1,10 +1,18 @@
-<h3>{{ artist }} - {{ title }}</h3> 
-<p>release date: {{ release-date }}<br>
-<br>
-<audio controls>
-    <source src="/music/{{ filename }}" type="audio/mpeg">
-    Your browser doesn't support this audio!
-</audio>
-</p>
-
-{{content}}
+<div style="display: flex; column-gap: 20px">
+    <div class="song-image">
+        <image src="/images/{{ image | default: "me.png" }}" alt="{{ title }}" width="130" height="130"></image>
+    </div>
+    <div class="song-info">
+        <h3 style="margin-top: 0px;">{{ artist }} - {{ title }}</h3> 
+        <p style="margin-top: -15px; margin-bottom: -20px;">release date: {{ release-date }}<br>
+        <br>
+        <audio controls>
+            <source src="/music/{{ filename }}" type="audio/mpeg">
+            Your browser doesn't support this audio!
+        </audio>
+        </p>
+        <p style="margin-top: -20px;">
+            {{ content }} <!--under image for now. fix later-->
+        </p>
+    </div>
+</div>
