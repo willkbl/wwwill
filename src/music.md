@@ -6,6 +6,8 @@ title: "music"
 &nbsp; \
 Here's where you can find my music! I release electronic music under the alias "adrast" and pretty much every other type of music under the name "Will Kibel" -- as well as playing in a few bands in the Boston area.
 
+All of my music is available for free download on this page. Any music that I am not able to make available for free download, I will link to store pages.
+
 ---
 
 ## quick links
@@ -33,10 +35,8 @@ Here's where you can find my music! I release electronic music under the alias "
 
 ## releases
 
-### adrast - digital her
-release date: 1/12/2026 \
-&nbsp; \
-<audio controls>
-    <source src="/music/digital-her.mp3" type="audio/mpeg">
-    Your browser doesn't support this audio!
-</audio>
+{% for page in collections.song-partials reversed %}
+
+{{ page.content }}
+
+  {% endfor %}
