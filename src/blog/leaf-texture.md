@@ -9,6 +9,8 @@ date: 2025-12-25
 
 **The following contains minor spoilers for Clair Obscur: Expedition 33.**
 
+_editor's note: I wrote this in one sitting. It's not great._
+
 ---
 
 My favorite moment in Clair Obscur: Expedition 33 was unexpected.
