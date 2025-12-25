@@ -8,8 +8,8 @@
     */
 }
 body {
-    background-color: rgb(29, 14, 49);
-    color: rgb(197, 197, 197);
+    background-color: rgb(48, 32, 64);
+    color: rgb(255, 255, 255);
     font-family: "Nunito Sans", 'Segoe UI', sans-serif;
 
     display: flex;
@@ -26,7 +26,7 @@ body > * {
     width: min(800px, 100%);
 }
 a {
-    color: rgb(190, 190, 190);
+    color: rgb(255, 255, 255);
 }
 .site-title {
     text-align: center;
