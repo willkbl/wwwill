@@ -1,0 +1,60 @@
+---
+title: "expedition 33: falling leaves"
+date-posted: "12/25/25"
+date: 2025-12-25
+---
+
+#### {{title}}
+##### {{date-posted}}
+
+**The following contains minor spoilers for Clair Obscur: Expedition 33.**
+
+---
+
+My favorite moment in Clair Obscur: Expedition 33 was unexpected.
+
+It occurred late in Act 3, after I had already beaten the game and seen one of its two endings, in an optional area I nearly ignored. It had nothing to do with the game’s story, which is good, or its gameplay, which is great. It had nothing to do with the stellar soundtrack or the incredible creature design (and I love good creature design). The VFX and UI are incredible and more games should strive to have E33’s sense of style - but that was not what my favorite moment was.
+
+![The first view you get of the Falling Leaves area](/images/fl-1.jpg)
+
+My favorite moment was while I was backtracking after a boss that I was way overleveled for. I had just steamrolled the Scavenger in the Falling Leaves area, and I was sprinting back to the nearest checkpoint so I could get the hell out of there and back to the real game. I had just been lamenting the game’s tendency to make you sprint around wide open areas far more than you’d like, and this runback was yet another example of that issue.
+
+In making my retreat, I climbed off the peak where the rather anti-climactic boss fight had taken place. I took one of the game’s many light-based zipline elevators (unsure what to call these) down the face of the cliff. And what I saw - was ugly.
+
+![In the distance, a repeating orange leaf texture](/images/fl-2.jpg)
+
+It was this, this repeating “orange leaf” texture, that truly left an impression on me. Seeing this was my favorite moment in the game.
+
+Clair Obscur is a disgustingly polished game, especially for a team that for all intents and purposes claims to be “indie” - although the definition of that term is getting a little harder to pin down nowadays. It is full of a simply ridiculous number of beautiful vistas, cinematic moments, and well-tuned encounters. 
+
+It is, in my opinion, bordering on too polished - many people have commented on the “Unreal Engine” look of the game, and while I love the art direction of E33, I can’t say they’re wrong. There’s a certain sheen to the game (and a certain lack of life in the character models) that, against all odds, makes it look very similar to lots of other games pursuing “realism.” 
+
+![Some ruins in the Falling Leaves area](/images/fl-3.jpg)
+
+It feels absurd to say that E33 pursues “realism” when its world is so creative - but in the environments, and especially in the characters, you see a dedication to making a world that looks more 2020s CGI wonder than 1960s hand animation wonder. The game’s world is fantasy. The game’s art style is realism.
+
+The wonder of Clair Obscur is that they achieved this effect so consistently with such a small team. The team at Sandfall is usually reported as 30-35 people, although they notably received support from outside contractors. Of course, this is not unusual for an indie studio, and especially not unusual for a AA or AAA studio. They have also said in interviews that they relied on lots of premade assets for the environment, which makes perfect sense for their scale. 
+
+What I find so impressive is that they were able to make environments that, for all my 40 hours of gameplay up to that point, did not look like premade assets or kits bashed together. Every environment felt intentional, and real, and seamless.
+
+Clair Obscur is a game that feels almost too good to be true, and it’s generated online discourse as a result. The term “qualityslop” gets thrown around. People are skeptical of the studio’s possible use of generative AI (myself included, although I appreciate the hard opposing stance they have taken as of late). It is so polished, so clean and crisp, that it feels impersonal. 
+
+This leaf texture, however, feels personal.
+
+![The repeating leaf texture, again.](/images/fl-4.jpg)
+
+This is not a weird thing to see in games. Many games with large environments have repeating textures outside of their bounds, so that if the player looks out they don’t just see a bunch of empty space (or the strange effect of an upside-down skybox).
+
+This can create a weird liminal effect if you encounter it. It’ll break your immersion - remind you that this world was created, that it isn’t real. In many games, this is not as jarring. In Clair Obscur, such care has been put into making these enormous, detailed environments that something like this sticks out that much more. It completely took me out - and I loved it.
+
+It’s not that it’s a mistake, per se. It’s not a misplaced asset, or a weird spot where you can get stuck. It’s instead an example of the limitations of human work. It’s representative of a lack of time, of a focus on other, more important parts of the game. It offers the player a peek behind the curtain into the slap-it-together world of game development - and that’s something that I find really resonates with me. It makes me feel more connected to the team that worked so hard to make this game in a way that nothing else in the game did.
+
+The area, Falling Leaves, is optional. It's off the beaten path, and you can beat the game without ever seeing it - I did. It was only in this backtracking that I found a single spot in the game that showed off its environmental imperfection. Many players will never see it. I'm glad I did.
+
+![Another one of Clair Obscur's beautiful views](/images/fl-5.jpg)
+
+The world of Clair Obscur is a painting. The world of the game and the game are both works of art, and as a result they both have rough edges. Works of art should not feel afraid to have those rough edges - those things are what we grab onto. Those things are how an artist communicates with us just as much as through story, or gameplay, or presentation.
+
+I like to know that real people made my game. I like to know that it was hard, and that it took time and effort and dedication. I like to know that they couldn’t make something perfect - and they decided to give it to us anyway. If you really pour your soul into a piece of art, it won’t be perfect. It shouldn’t be.
+
+![Some bodies of former Expeditioners, encased in resin, preserved in death](/images/fl-6.jpg)

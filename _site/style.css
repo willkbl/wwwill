@@ -48,3 +48,6 @@ footer {
     text-align: center;
     font-variant-caps: normal;
 }
+img, image {
+    max-width: 900px;
+}
