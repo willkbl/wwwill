@@ -3,8 +3,7 @@ layout: layout.html
 title: "marketing"
 ---
 
-**!!!THIS PAGE IS A WORK IN PROGRESS!!!**
-
+&nbsp; \
 One of my areas of specialty is marketing, with a focus in copywriting and social media management. I spent 6 months as a Marketing Intern at Akupara Games, as well as a year as the head of marketing for the Northeastern Shakespeare Society.
 
 Here's what I've done:
@@ -15,6 +14,9 @@ Here's what I've done:
 - Spearheaded multiple social media initiatives, including takeovers, shoutouts, video clips, and content calendars
 - Created assets for use for social media promotion
 - Credited on several Akupara-published games, including _Rain World_, _Airframe Ultra_, _GIGASWORD_, _Echo Weaver_, _Montabi_, _Dead Pets Unleashed_, and _Future Vibe Check_
+
+
+[test link](https://wwwill.org)
 
 #### Northeastern Shakespeare Society (April 2024 - April 2025)
 - 

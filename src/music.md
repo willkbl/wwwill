@@ -13,23 +13,23 @@ All of my music is available for free download on this page. Any music that I am
 ## quick links
 
 **Will Kibel** &nbsp; | &nbsp; 
-<a href="" target="_blank">spotify</a> &nbsp; 
-<a href="" target="_blank">youtube</a> &nbsp; 
-<a href="" target="_blank">instagram</a>  \
+<a href="">spotify</a> &nbsp; 
+<a href="">youtube</a> &nbsp; 
+<a href="">instagram</a>  \
 **adrast** &nbsp; | &nbsp; 
 [spotify]() &nbsp; 
-<a href="https://soundcloud.com/adrastea" target="_blank">soundcloud</a> &nbsp; 
-<a href="" target="_blank">youtube</a> &nbsp; 
-<a href="https://adrast.bandcamp.com/" target="_blank">bandcamp</a> &nbsp; 
-<a href="https://www.instagram.com/adrastmusic/" target="_blank">instagram</a> &nbsp; 
+<a href="https://soundcloud.com/adrastea">soundcloud</a> &nbsp; 
+<a href="">youtube</a> &nbsp; 
+<a href="https://adrast.bandcamp.com/">bandcamp</a> &nbsp; 
+<a href="https://www.instagram.com/adrastmusic/">instagram</a> &nbsp; 
 
 **Superpink** &nbsp; | &nbsp; 
-<a href="https://www.instagram.com/superpinksucks/" target="_blank">instagram</a> \
+<a href="https://www.instagram.com/superpinksucks/">instagram</a> \
 **Figment** &nbsp; | &nbsp; 
-<a href="https://www.instagram.com/morethanafigment/" target="_blank">instagram</a> \
+<a href="https://www.instagram.com/morethanafigment/">instagram</a> \
 **Linda's** &nbsp; | &nbsp; 
-<a href="" target="_blank">instagram</a> &nbsp; 
-<a href="" target="_blank">spotify</a>
+<a href="">instagram</a> &nbsp; 
+<a href="">spotify</a>
 
 ---
 
