@@ -4,7 +4,7 @@ title: "marketing"
 ---
 
 &nbsp; \
-One of my areas of specialty is marketing, with a focus in copywriting and social media management. I spent 6 months as a Marketing Intern at Akupara Games, as well as a year as the head of marketing for the Northeastern Shakespeare Society.
+One of my areas of specialty is marketing, with a focus in copywriting and social media management. I spent 6 months as a Marketing Intern at [Akupara Games](https://www.akuparagames.com/), as well as a year as the head of marketing for the [Northeastern Shakespeare Society](https://www.instagram.com/shakespearenu).
 
 Here's what I've done:
 #### Akupara Games - Marketing Intern (June - December 2025)
@@ -13,10 +13,8 @@ Here's what I've done:
 - Coordinated synchronized posts across multiple platforms (Twitter, Bluesky, Instagram, YouTube Shorts, TikTok, LinkedIn, GameJolt and Threads)
 - Spearheaded multiple social media initiatives, including takeovers, shoutouts, video clips, and content calendars
 - Created assets for use for social media promotion
-- Credited on several Akupara-published games, including _Rain World_, _Airframe Ultra_, _GIGASWORD_, _Echo Weaver_, _Montabi_, _Dead Pets Unleashed_, and _Future Vibe Check_
+- Credited on several Akupara-published games, including [_Rain World_](https://store.steampowered.com/app/312520/Rain_World/), [_Airframe Ultra_](https://store.steampowered.com/app/2522120/Airframe_Ultra/), [_GIGASWORD_](https://store.steampowered.com/app/1885930/GIGASWORD/), [_Echo Weaver_](https://store.steampowered.com/app/2184080/Echo_Weaver/), [_Montabi_](https://store.steampowered.com/app/3141630/Montabi/), [_Dead Pets Unleashed_](https://store.steampowered.com/app/1851720/Dead_Pets_Unleashed/), and [_Future Vibe Check_](https://store.steampowered.com/app/3525890/Future_Vibe_Check/)
 
-
-[test link](https://wwwill.org)
 
 #### Northeastern Shakespeare Society (April 2024 - April 2025)
 - 
@@ -24,3 +22,5 @@ Here's what I've done:
 _more words_
 
 You can find examples of my work below. However, if you want to hear more about my work, reach out! I'm always happy to talk about my projects.
+
+_show off stuff_
