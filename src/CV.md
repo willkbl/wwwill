@@ -17,15 +17,23 @@ _resume and further contact information available upon request_
 
 ## Education
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<!--putting this in a div for formatting. swapping between markdown and html is exhausting. need to streamline this-->
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px; margin-bottom: -20px;">
     <div>
-        poop
+        <p>
+            <span style="font-size: 20px;"><b>Northeastern University</b>, Boston, MA</span><br>
+            Khoury College of Computer Sciences<br>
+            Candidate for a <i>B.S. in Computer Science & Game Development</i><br>
+            Dean's List | Honors Scholarship<br>
+        </p>
     </div>
     <div style="text-align: right;">
-        fart
+        <p>
+            <span style="font-size: 20px;"><b>May 2027</b></span><br>
+            GPA: 3.76/4.00
+        </p>
     </div>
 </div>
-<!--school, major, gpa, dates-->
 
 _**Relevant Coursework:**_ Object Oriented Design, Algorithms & Data, Computer Systems, Distributed Systems, Rapid Idea Prototyping, Game Studio, Level Design & Game Architecture, Narrative for Games, Music & Audio for Video Games
 
