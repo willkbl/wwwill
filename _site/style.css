@@ -8,7 +8,7 @@
     */
 }
 body {
-    background-color: rgb(56, 34, 78);
+    background-color: rgb(73, 40, 50);
     color: rgb(255, 255, 255);
     font-family: "Nunito Sans", 'Segoe UI', sans-serif;
 
@@ -36,7 +36,7 @@ a {
     text-align: center;
 }
 h1 {
-    font-family: "Oswald", "Segoe UI", sans-serif;
+    font-family: "Roboto Slab", "Oswald", "Segoe UI", sans-serif;
     font-weight: 400;
 }
 h2 {

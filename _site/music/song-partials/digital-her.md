@@ -6,6 +6,7 @@ release-date: "1/12/2026"
 date: 2026-01-12
 filename: "digital-her.mp3"
 image:
+album: "tidal lock"
 ---
 
 {% include "song.html" %}

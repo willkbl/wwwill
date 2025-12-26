@@ -11,6 +11,7 @@ If you're looking at my HTML, I AM SO SORRY. This is my first web dev project in
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
 		<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
 		<base target="_blank">
 	</head>
 	<body>
@@ -21,6 +22,7 @@ If you're looking at my HTML, I AM SO SORRY. This is my first web dev project in
         <a href="/index.html" target="_self">home</a>
         &nbsp; &nbsp; &nbsp; <a href="/games/index.html" target="_self">games</a>
         &nbsp; &nbsp; &nbsp; <a href="/music/index.html" target="_self">music</a>
+        &nbsp; &nbsp; &nbsp; <a href="/game-audio/index.html" target="_self">game audio</a>
         &nbsp; &nbsp; &nbsp; <a href="/marketing/index.html" target="_self">marketing</a>
         &nbsp; &nbsp; &nbsp; <a href="/blog/index.html" target="_self">blog</a>
         &nbsp; &nbsp; &nbsp; <a href="/CV/index.html" target="_self">CV</a>
@@ -53,22 +55,27 @@ Here's where you can find my music! I release electronic music under the alias &
 <a href="">spotify</a></p>
 <hr>
 <h2>releases</h2>
-<div style="display: flex; column-gap: 20px">
-    <div class="song-image">
-        <image src="/images/me.png" alt="digital her" width="130" height="130" style="margin-top: auto; margin-bottom: auto; max-width: 100%"></image>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div style="display: flex; column-gap: 20px; flex-direction: row;">
+        <div class="song-image">
+            <image src="/images/me.png" alt="digital her" width="130" height="130" style="margin-top: auto; margin-bottom: auto; max-width: 100%"></image>
+        </div>
+        <div class="song-info">
+            <h3 style="margin-top: 0px;">adrast - digital her</h3> 
+            <p style="margin-top: -15px; margin-bottom: -20px;">release date: 1/12/2026<br>
+            <br>
+            <audio controls>
+                <source src="/music/digital-her.mp3" type="audio/mpeg">
+                Your browser doesn't support this audio!
+            </audio>
+            </p>
+            <p style="margin-top: -20px;">
+                 <!--under image for now. fix later-->
+            </p>
+        </div>
     </div>
-    <div class="song-info">
-        <h3 style="margin-top: 0px;">adrast - digital her</h3> 
-        <p style="margin-top: -15px; margin-bottom: -20px;">release date: 1/12/2026<br>
-        <br>
-        <audio controls>
-            <source src="/music/digital-her.mp3" type="audio/mpeg">
-            Your browser doesn't support this audio!
-        </audio>
-        </p>
-        <p style="margin-top: -20px;">
-             <!--under image for now. fix later-->
-        </p>
+    <div>
+        <h3 style="text-align: right; margin-top: 0px;">tidal lock</h3>
     </div>
 </div>
 <p>This song is coming out someday!</p>
@@ -76,6 +83,36 @@ Here's where you can find my music! I release electronic music under the alias &
 <a href="" target="_blank">spotify</a> &nbsp; 
 <a href="" target="_blank">youtube</a> &nbsp;
 <!--Functionality Note: Now I can just duplicate edit this page with all the music info and a new song will appear immediately!-->
+<p> </p>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div style="display: flex; column-gap: 20px; flex-direction: row;">
+        <div class="song-image">
+            <image src="/images/me.png" alt="Thundersong" width="130" height="130" style="margin-top: auto; margin-bottom: auto; max-width: 100%"></image>
+        </div>
+        <div class="song-info">
+            <h3 style="margin-top: 0px;">Will Kibel - Thundersong</h3> 
+            <p style="margin-top: -15px; margin-bottom: -20px;">release date: 7/11/2025<br>
+            <br>
+            <audio controls>
+                <source src="/music/thundersong.mp3" type="audio/mpeg">
+                Your browser doesn't support this audio!
+            </audio>
+            </p>
+            <p style="margin-top: -20px;">
+                 <!--under image for now. fix later-->
+            </p>
+        </div>
+    </div>
+    <div>
+        <h3 style="text-align: right; margin-top: 0px;"></h3>
+    </div>
+</div>
+<p>Heavily inspired by the Risk of Rain 2 soundtrack.</p>
+<!-- links if needed
+<a href="" target="_blank">spotify</a> &nbsp; 
+<a href="" target="_blank">youtube</a> &nbsp;
+<!--Functionality Note: Now I can just duplicate edit this page with all the music info and a new song will appear immediately!-->
+<p> </p>
 
 			</main>
 			

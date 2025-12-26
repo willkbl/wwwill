@@ -39,4 +39,6 @@ All of my music is available for free download on this page. Any music that I am
 
 {{ page.content }}
 
+&nbsp;
+
   {% endfor %}
