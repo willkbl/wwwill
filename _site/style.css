@@ -44,6 +44,7 @@ h1 {
 }
 h2 {
     text-align: center;
+    font-family: "Roboto Slab", "Oswald", "Segoe UI", sans-serif;
 }
 h4 {
     font-size: large;
@@ -63,4 +64,7 @@ img, image {
     margin-bottom: 30px;
     max-width: 80%;
     height: auto;
+}
+iframe {
+    display: block;
 }

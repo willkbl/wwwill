@@ -12,6 +12,9 @@ title: "CV"
         a {
             color: rgba(0, 0, 0, 1);
         }
+        hr {
+            color: rgba(0, 0, 0, 1);
+        }
         header, footer {
             display: none;
         }
