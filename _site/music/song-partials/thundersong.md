@@ -14,7 +14,8 @@ album:
 Heavily inspired by the Risk of Rain 2 soundtrack.
 
 <!-- links if needed
-<a href="" target="_blank">spotify</a> &nbsp; 
+Links: &nbsp; |  &nbsp;
+<a href=""">spotify</a> &nbsp; 
 <a href="" target="_blank">youtube</a> &nbsp;
 
 <!--Functionality Note: Now I can just duplicate edit this page with all the music info and a new song will appear immediately!-->
