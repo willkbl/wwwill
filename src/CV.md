@@ -15,11 +15,15 @@ title: "CV"
         header, footer {
             display: none;
         }
+        .cvdisappear {
+            display: none;
+        }
     }
 </style>
 
-\
-_resume and further contact information available upon request_
+<p class="cvdisappear">
+    <i>resume and further contact information available upon request</i>
+</p>
 
 <div style="text-align: center;">
 
