@@ -62,7 +62,7 @@ img, image {
     margin-right: auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
 }
 iframe {
