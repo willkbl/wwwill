@@ -3,6 +3,21 @@ layout: layout.html
 title: "CV"
 ---
 
+<style>
+    @media only print {
+        body {
+            margin-bottom: 0px;
+            color: rgba(0, 0, 0, 1);
+        }
+        a {
+            color: rgba(0, 0, 0, 1);
+        }
+        header, footer {
+            display: none;
+        }
+    }
+</style>
+
 \
 _resume and further contact information available upon request_
 
