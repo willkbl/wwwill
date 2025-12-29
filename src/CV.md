@@ -71,6 +71,10 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 
 ---
 
+## Skills
+
+---
+
 ## Credits
 #### Akupara Games
 - [Rain World]() - **Marketing Intern**
@@ -84,10 +88,6 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 - [Montabi]() [_Unreleased_] - **Marketing Intern**
 #### Other
 - [Pigeon Coo-lette](https://store.steampowered.com/app/3875840/Pigeon_Coolette/) - **Programmer, Trailer and Music**
-
----
-
-## Skills
 
 ---
 
