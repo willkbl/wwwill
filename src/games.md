@@ -12,7 +12,7 @@ If you're interested in my programming abilities, you can find some more of my w
 
 ---
 
-## My Work
+## my work
 
 #### Pigeon Coo-lette
 

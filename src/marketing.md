@@ -27,7 +27,7 @@ You can find examples of my work below. However, if you want to hear more about 
 
 ---
 
-## My Work
+## my work
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
     <div>
@@ -59,8 +59,17 @@ While employed at Akupara, I made content calendars for six games: _Airframe Ult
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Unforgiving steel corridors.<br><br>Megacity West is not for the faint of heart. <a href="https://t.co/PSJkGcjtxf">pic.twitter.com/PSJkGcjtxf</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1988336523792560301?ref_src=twsrc%5Etfw">November 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-#### Montabi Rap (when I have more to show for it)
-I can write a little blurb now but it'll be much more impressive when there's a video
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
+    <div>
+        <h4> Montabi Rap </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">November 2025</h4>
+    </div>
+</div>
+
+This project has not yet been released, but I wrote a song for Akupara's forthcoming roguelike deckbuilder, Montabi. More info soon.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
     <div>

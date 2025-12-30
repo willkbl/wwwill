@@ -14,7 +14,7 @@ In addition, while all of my music is representative of my skills as a musician,
 
 ---
 
-## My Work
+## my work
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
     <div>
