@@ -80,7 +80,7 @@ This project has not yet been released, but I wrote a song for Akupara's forthco
     </div>
 </div>
 
-While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games. While I did not create the artwork myself (that responsibility fell to Mike from our art team), I pretty much every other aspect of the process.
+While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games. While I did not create the artwork myself (that responsibility fell to the incredibly talented Mike Shanks from our art team), I pretty much every other aspect of the process.
 
 I would start by scouting out upcoming games for the next month and see which ones were from publishers we had good relationships with, which ones would make a big impact in the industry, and which ones would lend themselves well to artwork. I pitched these crossover ideas to the greater marketing team, and once I got the go-ahead, I would plan out what each post would look like. Sometimes this was just a description of my idea, sometimes it was a preliminary sketch. One I sent that off to Mike, I wrote the copy. I would then receive the finished artwork and schedule the post on socials (usually Twitter and Bluesky) for the game's release day.
 

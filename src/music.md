@@ -8,6 +8,8 @@ Here's where you can find my music! I release electronic music under the alias "
 
 All of my music is available for free download on this page. Any music that I am not able to make available for free download, I will link to store pages.
 
+[[NOTE: I am still working on uploading my entire backlog of music (as well as coverarts and linking to streaming platforms). Apologies while this is under construction!]]
+
 ---
 
 ## quick links

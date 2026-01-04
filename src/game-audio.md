@@ -54,7 +54,11 @@ Cover art by Ty Picker.
 
 &nbsp;
 
-#### Pigeon Coo-lette - trailer
+#### Apartment 3A - music and effects
+
+an exercise in restraint
+
+record a playthrough
 
 &nbsp;
 
@@ -73,6 +77,8 @@ Cover art by Ty Picker.
 Move/Shoot is a game I worked on for the Ludum Dare Game Jam in October 2023. I composed all the music and did all of the sound design, as well as doing some of the programming. This whole game was made in 2 days by a team of 5 people.
 
 The song was written to loop perfectly (as game audio does). It's about 2 minutes and 30 seconds long, which means this video is too short to play the looping part. Oops! I also wish the menu music was played for longer, it's a jam.
+
+While this was not my first foray into sound design by any means, it was my first time messing around with implementation in the Unity engine. My favorite part is the ping-ponging tinkly sound effects of the bullets ricocheting off walls. I wish we had better words in the English language to describe sound than "tinkly."
 
 &nbsp;
 
