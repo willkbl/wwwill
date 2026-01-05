@@ -6,6 +6,8 @@ title: "game audio"
 &nbsp;\
 I've been doing sound design and music for games for about 5 years now, and have been doing both sound design and music in general for much, much longer. Below you can see some of the projects I've worked on in the game audio space. I pride myself on my versatility as a composer and a sound designer, so there's a wide variety of things to see. 
 
+I am well-versed in music and audio production, and have been honing my skills for over 10 years now. For my DAW, I primarily use FL Studio, although I have some experience with Logic Pro and Pro Tools. I have used middleware like WWise and FMOD before, but most of my implementation work so far has been done via default engine audio solutions. I have lots of experience with synthesis, recording instrumentals, sound engineering, and engineering voiceover, and also experience with recording voiceover (although I don't have much of a setup right now).
+
 <p>
     While both the <a href="/games/index.html" target="_self">games</a> and <a href="/music/index.html" target="_self">music</a> pages of this site contain elements of my game audio work, I wanted to make a separate space here to showcase it in a more focused manner (and also include some other pieces of work).
 </p>
