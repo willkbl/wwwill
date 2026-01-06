@@ -66,6 +66,60 @@ record a playthrough
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
     <div>
+        <h4> id Tech </h4> 
+        <h5> DOOM/Wolfenstein-inspired song </h5>
+    </div>
+    <div>
+        <h4 style="text-align: right;">May 2025</h4>
+    </div>
+</div>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tJ8rRt78eToWW5A9yWnRG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+I wrote a song called id Tech (technically started in 2021, but finished in May 2025) that pays homage to and mimicks the style of Mick Gordon's soundtracks for DOOM/DOOM Eternal and Wolfenstein.
+
+This song is available on streaming platforms. I am currently working on a "music video" using DOOM/Wolfenstein gameplay to better showcase how the song fits the intended tone.
+
+&nbsp;
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
+    <div>
+        <h4> Thundersong </h4> 
+        <h5> Risk of Rain 2-inspired song </h5>
+    </div>
+    <div>
+        <h4 style="text-align: right;">July 2025</h4>
+    </div>
+</div>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1m8fS81C1GatuyMIVFQO7F?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Thundersong is a song that pays homage to Risk of Rain 2's soundtrack by Chris Christodolou. It took about 8 months to finish, although lots of that time was spent waiting for the right keys solo to coalesce. I also recorded live drums for this, which is something I wish I had the gear to do more of.
+
+This song is available on streaming platforms. I am currently working on a "music video" using Risk of Rain 2's gameplay to better showcase how the song fits the intended tone.
+
+&nbsp;
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
+    <div>
+        <h4> Source Engine </h4> 
+        <h5> Half-Life 2-inspired song </h5>
+    </div>
+    <div>
+        <h4 style="text-align: right;">February 2025</h4>
+    </div>
+</div>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0YTJh5Y7CWBZS1j4Aozk0T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+This song draws from a lot of inspirations outside of Valve's Half-Life 2, including more modern rock groups like Nine Inch Nails and Squid. I knew that I wanted to pay homage to HL2's (and HL: Alyx's) unique sound of industrial rock, although it was only pointed out to me after the song was almost finished that the intro sounds like a bunch of physics objects being tossed around in the titular Source Engine.
+
+This song is available on streaming platforms. I am currently working on a "music video" using Risk of Rain 2's gameplay to better showcase how the song fits the intended tone.
+
+&nbsp;
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
+    <div>
         <h4> Move/Shoot </h4> 
         <h5> Music & Sound Design </h5>
     </div>
@@ -84,18 +138,6 @@ While this was not my first foray into sound design by any means, it was my firs
 
 &nbsp;
 
-#### id Tech - doom/wolfenstein inspired song (with gameplay video)
-
-&nbsp;
-
-#### Thundersong - ror2 inspired song (with gameplay video)
-
-&nbsp;
-
-#### Source Engine - hl2 inspired song (with gameplay video)
-
-&nbsp;
-
-#### MORE FULL AUDIO CONVERSIONS (but oops I have to actually do them first)
-
-also i have to consider the order of things but I can deal with that once everything is actually in
+<!--
+make more full audio conversions for this list!
+-->
