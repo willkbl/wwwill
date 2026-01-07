@@ -56,11 +56,21 @@ Cover art by Ty Picker.
 
 &nbsp;
 
-#### Apartment 3A - music and effects
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: -20px">
+    <div>
+        <h4> Apartment 3A </h4> 
+        <h5> Music and sound effect implementation </h5>
+    </div>
+    <div>
+        <h4 style="text-align: right;">November 2024</h4>
+    </div>
+</div>
 
-an exercise in restraint
+<iframe width="800" height="450" src="https://www.youtube.com/embed/wsHNij0Bvjc?si=vLdR3asruL2BHPRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-record a playthrough
+Apartment 3A was the final project for my Level Design and Architecture class at Northeastern. While I did many things on this short exploration game (design, programming, cameras, lighting), I also did all the sound and music.
+
+All aspects of the game, especially the audio, were designed to create an eerie and unsettling atmosphere. The game itself is a fixed-camera exploration game, featuring a story told (mostly) without words. Since our graphics and animations were so rudimentary, I knew sound would have to do some of the heavy lifting.
 
 &nbsp;
 
