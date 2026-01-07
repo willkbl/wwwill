@@ -202,7 +202,7 @@ marketing, games, audio, etc.
         <p><b><i>Software:</i></b></p>
     </div>
     <div>
-        <p>Unity | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse</p>
+        <p>Unity | Unreal Engine 5 | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse</p>
     </div>
 </div>
 
