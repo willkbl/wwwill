@@ -163,8 +163,10 @@ You can see a few examples or all the posts below (click on each picture in the 
     </div>
 </div>
 
+
+<!--
 #### Intermind Takeover
 
 #### lowkey maybe the JC posts i was proud of those
 
-#### Shakespeare Posts (always good to show these off even though there's not much)
+#### Shakespeare Posts (always good to show these off even though there's not much) -->
