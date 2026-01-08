@@ -10,3 +10,8 @@ title: "other"
 3. Alan Wake 2
 4. Elden Ring
 5. Undertale
+
+
+Projects:
+minesweeper
+RAFT implementation

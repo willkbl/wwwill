@@ -21,6 +21,12 @@ If you're interested in my programming abilities, you can find some more of my w
 #### WROM
 
 #### Apartment 3A
+
+design patterns
+
+<p>The design doc can be downloaded
+<a href="/documents/apt3a.pdf" download="Apartment 3A Design Doc">here</a>.</p>
+
 You can play the game [here on itch.io](https://fkawill.itch.io/apartment-3a).
 
 #### The Clock Struck as the Crow Flew (or whatever it's called I forget the name)
