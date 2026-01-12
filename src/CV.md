@@ -68,7 +68,7 @@ title: "CV"
     </div>
 </div>
 
-_**Relevant Coursework:**_ Object Oriented Design, Algorithms & Data, Computer Systems, Distributed Systems, Rapid Idea Prototyping, Game Studio, Level Design & Game Architecture, Narrative for Games, Music & Audio for Video Games
+_**Relevant Coursework:**_ Object Oriented Design, Algorithms & Data, Computer Systems, Distributed Systems, Rapid Idea Prototyping, Game Studio, Level Design & Game Architecture, Narrative for Games, Music & Audio for Video Games, Designing Imaginary Worlds, Game Artificial Intelligence, Game Concept Development
 
 _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketing), Music Production Club, Game Development Club, FIRST Robotics 
 
