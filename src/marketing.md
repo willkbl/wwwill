@@ -7,23 +7,21 @@ title: "marketing"
 One of my areas of specialty is marketing, with a focus in copywriting and social media management. I spent 6 months as a Marketing Intern at [Akupara Games](https://www.akuparagames.com/), as well as a year as the Head of Marketing for the [Northeastern Shakespeare Society](https://www.instagram.com/shakespearenu).
 
 Here's what I've done:
-#### Akupara Games - Marketing Intern (June - December 2025)
-- Managed 4 social media accounts, both broad company accounts and accounts for specific games
+#### Akupara Games (video game publisher) - Marketing Intern (June - December 2025)
 - Wrote copy for over 200 posts for 12+ different games from the Akupara catalog
-- Coordinated synchronized posts across multiple platforms (Twitter, Bluesky, Instagram, YouTube Shorts, TikTok, LinkedIn, GameJolt and Threads)
-- Spearheaded multiple social media initiatives, including takeovers, shoutouts, video clips, and content calendars
-- Created assets for use for social media promotion
-- Credited on several Akupara-published games, including [_Rain World_](https://store.steampowered.com/app/312520/Rain_World/), [_Airframe Ultra_](https://store.steampowered.com/app/2522120/Airframe_Ultra/), [_GIGASWORD_](https://store.steampowered.com/app/1885930/GIGASWORD/), [_Echo Weaver_](https://store.steampowered.com/app/2184080/Echo_Weaver/), [_Montabi_](https://store.steampowered.com/app/3141630/Montabi/), [_Dead Pets Unleashed_](https://store.steampowered.com/app/1851720/Dead_Pets_Unleashed/), and [_Future Vibe Check_](https://store.steampowered.com/app/3525890/Future_Vibe_Check/)
+- Pitched and executed multiple social media takeovers, shoutouts, video clips, and content calendars across 4 separate brand accounts
+- Created assets for use on Twitter, Bluesky, Instagram TikTok, YouTube Shorts, LinkedIn, GameJolt, and Threads
+- Credited on [_Rain World_](https://store.steampowered.com/app/312520/Rain_World/), [_Airframe Ultra_](https://store.steampowered.com/app/2522120/Airframe_Ultra/), [_GIGASWORD_](https://store.steampowered.com/app/1885930/GIGASWORD/), [_Echo Weaver_](https://store.steampowered.com/app/2184080/Echo_Weaver/), [_Montabi_](https://store.steampowered.com/app/3141630/Montabi/), [_Dead Pets Unleashed_](https://store.steampowered.com/app/1851720/Dead_Pets_Unleashed/), and [_Future Vibe Check_](https://store.steampowered.com/app/3525890/Future_Vibe_Check/)
 
 
 #### Northeastern Shakespeare Society (April 2024 - April 2025)
-- Upheld our social media accounts/links and helped facilitate auditions, signups, and events
-- Made graphics for a variety of club meetings, events, and announcements 
-- Designed posters and programs for our Fall and Spring shows during the academic year
+- Upheld our social media accounts/links and made graphics for a variety of club meetings, events, and announcements 
+- Coordinated event sign-ups, auditions, and event logistics
+- Worked on typesetting and designed posters and programs for our Fall and Spring shows during the academic year
 
 I am a strong supporter of "casual professionalism" and using tight, non-condescending language to reach and connect with an audience. I have an ear for both what is hip on social media and what would sound embarrassing coming from a corporate account rather than a person. I also have an understanding of social media trends and how to write snappy, eye-catching marketing copy. My expertise is in writing, but I've played a role in all parts of the marketing pipeline and I'm a big believer in communication and having a process.
 
-You can find examples of my work below. However, if you want to hear more about my work, reach out! I'm always happy to talk about my projects.
+You can find examples of my work below. However, if you want to hear more about my work, [reach out](mailto:will.kibel@wwwill.org)! I'm always happy to talk about my projects.
 
 ---
 
