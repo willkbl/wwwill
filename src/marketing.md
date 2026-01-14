@@ -57,18 +57,6 @@ While employed at Akupara, I made content calendars for six games: _Airframe Ult
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Unforgiving steel corridors.<br><br>Megacity West is not for the faint of heart. <a href="https://t.co/PSJkGcjtxf">pic.twitter.com/PSJkGcjtxf</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1988336523792560301?ref_src=twsrc%5Etfw">November 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
-    <div>
-        <h4> Montabi Rap </h4> 
-    </div>
-    <div>
-        <h4 style="text-align: right;">November 2025</h4>
-    </div>
-</div>
-
-This project has not yet been released, but I wrote a song for Akupara's forthcoming roguelike deckbuilder, Montabi. More info soon.
-
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
     <div>
         <h4> Friends of AG Shoutouts </h4> 
@@ -78,13 +66,13 @@ This project has not yet been released, but I wrote a song for Akupara's forthco
     </div>
 </div>
 
-While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games. While I did not create the artwork myself (that responsibility fell to the incredibly talented Mike Shanks from our art team), I pretty much every other aspect of the process.
+While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games. While I did not create the artwork myself (that responsibility fell to the incredibly talented Mike Shanks from our art team), I handled pretty much every other aspect of the process.
 
 I would start by scouting out upcoming games for the next month and see which ones were from publishers we had good relationships with, which ones would make a big impact in the industry, and which ones would lend themselves well to artwork. I pitched these crossover ideas to the greater marketing team, and once I got the go-ahead, I would plan out what each post would look like. Sometimes this was just a description of my idea, sometimes it was a preliminary sketch. One I sent that off to Mike, I wrote the copy. I would then receive the finished artwork and schedule the post on socials (usually Twitter and Bluesky) for the game's release day.
 
 This pipeline that I structured for the shoutouts worked well because it involved several points of communication with all involved parties (me, Mike, and our marketing leads). I particularly wanted to make sure that the descriptions I provided made sense for Mike and gave him enough of a jumping-off point for his art.
 
-These posts performed pretty well on socials for our baseline level of engagement. What was the most gratifying result to me, however, was seeing developers and publishers reach out to us (either publicly or privately) and tell us how much they appreciated our artwork. It was a social initiative that both parties benefitted from.
+These posts performed above average for Akupara. What was the most gratifying result to me, however, was seeing developers and publishers reach out to us (either publicly or privately) and tell us how much they appreciated our artwork. It was a social initiative that both parties benefitted from.
 
 You can see a few examples or all the posts below (click on each picture in the collage to go to their corresponding Twitter post).
 
@@ -111,6 +99,8 @@ You can see a few examples or all the posts below (click on each picture in the 
         height: auto;
     }
 </style>
+
+These are all the posts I orchestrated:
 
 <div style="display: flex; flex-direction: column; justify-content: center; margin-top: 20px;">
     <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -161,6 +151,16 @@ You can see a few examples or all the posts below (click on each picture in the 
     </div>
 </div>
 
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
+    <div>
+        <h4> Montabi Rap </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">November 2025</h4>
+    </div>
+</div>
+
+This project has not yet been released, but I wrote a song for Akupara's forthcoming roguelike deckbuilder, Montabi. More info soon.
 
 <!--
 #### Intermind Takeover

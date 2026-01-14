@@ -88,7 +88,7 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 - Maintained and wrote copy for 4 social media accounts for indie video game publisher Akupara Games
 - Wrote promotional material and social media posts for upcoming games & other company concerns
 - Spearheaded multiple social media initiatives, including takeovers, shoutouts, video clips, and content calendars
-- Credited on several Akupara-published games, including _Rain World_, _Airframe Ultra_, _GIGASWORD_, _Echo Weaver_, _Montabi_, _Dead Pets Unleashed_, and _Future Vibe Check_
+- Credited on _Rain World_, _Airframe Ultra_, _GIGASWORD_, _Echo Weaver_, _Montabi_, _Dead Pets Unleashed_, and _Future Vibe Check_
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
     <div>
