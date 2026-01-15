@@ -19,7 +19,7 @@ Here's what I've done:
 - Coordinated event sign-ups, auditions, and event logistics
 - Worked on typesetting and designed posters and programs for our Fall and Spring shows during the academic year
 
-I am a strong supporter of "casual professionalism" and using tight, non-condescending language to reach and connect with an audience. I have an ear for both what is hip on social media and what would sound embarrassing coming from a corporate account rather than a person. I also have an understanding of social media trends and how to write snappy, eye-catching marketing copy. My expertise is in writing, but I've played a role in all parts of the marketing pipeline and I'm a big believer in communication and having a process.
+I am a strong supporter of "casual professionalism" and using tight, non-condescending language to reach and connect with an audience. My expertise is in writing, but I've played a role in all parts of the marketing pipeline. I like straightforward communication and having consistent team processes.
 
 You can find examples of my work below. However, if you want to hear more about my work, [reach out](mailto:will.kibel@wwwill.org)! I'm always happy to talk about my projects.
 
@@ -38,24 +38,23 @@ You can find examples of my work below. However, if you want to hear more about 
 
 A lot of my time at Akupara was focused on making "content calendars" - large spreadsheets of about 30 or so posts that were "evergreen" and could be posted at any time. This meant organizing assets, writing copy, making them presentable for approval, integrating feedback, and scheduling the posts. 
 
+While employed at Akupara, I made content calendars for six games: _Airframe Ultra_, _Rain World_, _Echo Weaver_, _GIGASWORD_, _Future Vibe Check_, and _Dead Pets Unleashed_. 
+
 The content calendar that saw the most success was for Airframe Ultra, a then-unreleased hoverbike racing game. The AFU Content Calendar posts saw like counts averaging from 500-1500 likes on Twitter. Previous AFU posts did not often see this kind of engagement.
 
 For example, while trailers were usually getting a couple hundred likes, posts like [this](https://x.com/AirframeUltra/status/1947778991517028566?s=20) received little to no engagement, with this one sitting at 32 likes on Twitter. In contrast, [my first post](https://x.com/AirframeUltra/status/1949183186723910105?s=20) achieved 1.9k likes and 226 retweets (a 5900% increase). Even when you look at a [trailer](https://x.com/AirframeUltra/status/1948775501469712714?s=20) posted on the account the previous day, it only received 520 likes, making my post a 360% increase.
 
 The last post on Airframe Ultra's account to reach a comparable amount of likes was a single video back in February - and most importantly, I was able to produce content that consistently reached that 300-500+ threshold of likes on a weekly basis.
 
-The tone of the game was eye-catching - very dystopian, Mad Max-y, brutalist, and punk. Lots of posts were short and simple, in all caps. I wrote the copy to match the bold and brash aesthetic of the game to both draw people in and remain consistent with the established tone. It was extremely fun to write copy for AFU, and it allowed me to play around with structure and figure out what caught people's eye. The boldness of the copy (and the game itself) seemed to draw a lot of people in, so I leaned into that while writing.
-
-While employed at Akupara, I made content calendars for six games: _Airframe Ultra_, _Rain World_, _Echo Weaver_, _GIGASWORD_, _Future Vibe Check_, and _Dead Pets Unleashed_. 
-
 <div style="display: flex; flex-direction: row; justify-content: center;">
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Finish FIRST🏅<br>or not at ALL.💥<br><br>Traffic is murder in this cross-country road wreck. 🏍️<br><br>💥 <a href="https://twitter.com/hashtag/AFUBeta?src=hash&amp;ref_src=twsrc%5Etfw">#AFUBeta</a> 3 continues. <a href="https://t.co/oLUijEXBXp">pic.twitter.com/oLUijEXBXp</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1949183186723910105?ref_src=twsrc%5Etfw">July 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Nerves are a weapon. Don&#39;t lose your cool, and use adrenaline like fuel. <a href="https://t.co/0iKG2XEuKV">pic.twitter.com/0iKG2XEuKV</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1985799561227424252?ref_src=twsrc%5Etfw">November 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">On the circuit, it’s every racer for themselves. <a href="https://t.co/x2k4ZSG54O">pic.twitter.com/x2k4ZSG54O</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1978174776951636240?ref_src=twsrc%5Etfw">October 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Unforgiving steel corridors.<br><br>Megacity West is not for the faint of heart. <a href="https://t.co/PSJkGcjtxf">pic.twitter.com/PSJkGcjtxf</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1988336523792560301?ref_src=twsrc%5Etfw">November 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+
+The tone of the game was eye-catching - very dystopian, Mad Max-y, brutalist, and punk. Lots of posts were short and simple, in all caps. I wrote the copy to match the bold and brash aesthetic of the game to both draw people in and remain consistent with the established tone. It was extremely fun to write copy for AFU, and it allowed me to play around with structure and figure out what caught people's eye. The boldness of the copy (and the game itself) seemed to draw a lot of people in, so I leaned into that while writing.
+
+_You can find other examples on [the Airframe Ultra account](https://x.com/AirframeUltra) from June-December 2025._
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
     <div>
