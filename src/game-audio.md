@@ -106,7 +106,7 @@ This song is available on streaming platforms. I am currently working on a "musi
     </div>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmbZRNKQQbw?si=YP4ah5xxPgU2Pxlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/zmbZRNKQQbw?si=YP4ah5xxPgU2Pxlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Thundersong is a song that pays homage to Risk of Rain 2's soundtrack by Chris Christodolou. It took about 8 months to finish, although lots of that time was spent waiting for the right keys solo to coalesce. I also recorded live drums for this, which is something I wish I had the gear to do more of.
 
