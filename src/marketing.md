@@ -36,15 +36,12 @@ You can find examples of my work below. However, if you want to hear more about 
     </div>
 </div>
 
-A lot of my time at Akupara was focused on making "content calendars" - large spreadsheets of about 30 or so posts that were "evergreen" and could be posted at any time. This meant organizing assets, writing copy, making them presentable for approval, integrating feedback, and scheduling the posts. 
+A lot of my time at Akupara was focused on making **"content calendars"** - large spreadsheets of about 30 or so posts that were "evergreen" and could be posted at any time. This meant organizing assets, writing copy, making them presentable for approval, integrating feedback, and scheduling the posts. 
 
 While employed at Akupara, I made content calendars for six games: _Airframe Ultra_, _Rain World_, _Echo Weaver_, _GIGASWORD_, _Future Vibe Check_, and _Dead Pets Unleashed_. 
 
-The content calendar that saw the most success was for Airframe Ultra, a then-unreleased hoverbike racing game. The AFU Content Calendar posts saw like counts averaging from 500-1500 likes on Twitter. Previous AFU posts did not often see this kind of engagement.
-
-For example, while trailers were usually getting a couple hundred likes, posts like [this](https://x.com/AirframeUltra/status/1947778991517028566?s=20) received little to no engagement, with this one sitting at 32 likes on Twitter. In contrast, [my first post](https://x.com/AirframeUltra/status/1949183186723910105?s=20) achieved 1.9k likes and 226 retweets (a 5900% increase). Even when you look at a [trailer](https://x.com/AirframeUltra/status/1948775501469712714?s=20) posted on the account the previous day, it only received 520 likes, making my post a 360% increase.
-
-The last post on Airframe Ultra's account to reach a comparable amount of likes was a single video back in February - and most importantly, I was able to produce content that consistently reached that 300-500+ threshold of likes on a weekly basis.
+The Airframe Ultra Content Calendar posts went **viral** and received a relative increase in likes. For example, while trailers were usually getting a couple hundred likes, posts like [this](https://x.com/AirframeUltra/status/1947778991517028566?s=20) received little to no engagement, with this one sitting at 32 likes on Twitter. In contrast, [my first post](https://x.com/AirframeUltra/status/1949183186723910105?s=20) achieved 1.9k likes and 226 retweets (a 5900% increase). Even when you look at a [trailer](https://x.com/AirframeUltra/status/1948775501469712714?s=20) posted on the account the previous day, it only received 520 likes, making my post a 360% increase.
+Most importantly, I was able to produce content that **consistently** reached a 500+ threshold of likes on a weekly basis.
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Finish FIRST🏅<br>or not at ALL.💥<br><br>Traffic is murder in this cross-country road wreck. 🏍️<br><br>💥 <a href="https://twitter.com/hashtag/AFUBeta?src=hash&amp;ref_src=twsrc%5Etfw">#AFUBeta</a> 3 continues. <a href="https://t.co/oLUijEXBXp">pic.twitter.com/oLUijEXBXp</a></p>&mdash; Airframe Ultra (@AirframeUltra) <a href="https://twitter.com/AirframeUltra/status/1949183186723910105?ref_src=twsrc%5Etfw">July 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -65,13 +62,13 @@ _You can find other examples on [the Airframe Ultra account](https://x.com/Airfr
     </div>
 </div>
 
-While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games. While I did not create the artwork myself (that responsibility fell to the incredibly talented Mike Shanks from our art team), I handled pretty much every other aspect of the process.
+While at Akupara, I was in charge of organizing several AG Shoutouts - little pieces of bespoke artwork we could post online to celebrate the release of other publishers' games.
 
-I would start by scouting out upcoming games for the next month and see which ones were from publishers we had good relationships with, which ones would make a big impact in the industry, and which ones would lend themselves well to artwork. I pitched these crossover ideas to the greater marketing team, and once I got the go-ahead, I would plan out what each post would look like. Sometimes this was just a description of my idea, sometimes it was a preliminary sketch. One I sent that off to Mike, I wrote the copy. I would then receive the finished artwork and schedule the post on socials (usually Twitter and Bluesky) for the game's release day.
+I would start by scouting upcoming games for the next month and see which ones were from publishers we had good relationships with, which ones would make a big impact in the industry, and which ones would lend themselves well to artwork. I pitched these crossover ideas, and then I would plan, describe, and sketch what each post would look like. Once I sent that off to our incredibly talented artist, Mike Shanks, I wrote the copy. I would then receive the finished artwork and schedule the post on socials (usually Twitter and Bluesky) for the game's release day.
 
-This pipeline that I structured for the shoutouts worked well because it involved several points of communication with all involved parties (me, Mike, and our marketing leads). I particularly wanted to make sure that the descriptions I provided made sense for Mike and gave him enough of a jumping-off point for his art.
+This pipeline that I structured for the shoutouts worked well because it involved several points of communication and cross-team leadership. I was in control of the process from start to finish, and I managed across art and marketing teams to get the posts tasked out and finished.
 
-These posts performed above average for Akupara. What was the most gratifying result to me, however, was seeing developers and publishers reach out to us (either publicly or privately) and tell us how much they appreciated our artwork. It was a social initiative that both parties benefitted from.
+Socially, these posts performed above average for Akupara. What was the most gratifying result to me, however, was seeing developers and publishers reach out to us (either publicly or privately) and tell us how much they appreciated our artwork. It was a social initiative that both parties benefitted from.
 
 You can see a few examples or all the posts below (click on each picture in the collage to go to their corresponding Twitter post).
 
