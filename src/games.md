@@ -14,35 +14,79 @@ If you're interested in my programming abilities, you can find some more of my w
 
 ## my work
 
-#### Pigeon Coo-lette
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Detritus </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">February 2026</h4>
+    </div>
+</div>
+<h5>Micro-TTRPG</h5>
+
+<iframe frameborder="0" src="https://itch.io/embed/4285123?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/detritus">Detritus by fkaWill</a></iframe>
+
+**Detritus** is a micro-TTRPG about grief. I had the idea for this game in February of 2024, and slowly whittled away at what kind of game it would turn out to be over the course of 2 years. Inspired by one of my classes, I wanted to make a small, digestible experience that delved into grief and the process of grieving through collaborative storytelling. I wrote the game manual and iterated on it, running a few small playtests to develop it further. It's a bite-sized game but can have a lot of depth, both narrative and emotional.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Pigeon Coo-lette </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">August 2025</h4>
+    </div>
+</div>
+<h5>Rhythm game</h5>
 
 <iframe src="https://store.steampowered.com/widget/3875840/" frameborder="0" width="800" height="190"></iframe>
 
-#### Happy Birthday
-
-<iframe frameborder="0" src="https://itch.io/embed/3108811?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/happy-birthday">Happy Birthday by fkaWill</a></iframe>
-
-#### Terminus
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Terminus </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">December 2024</h4>
+    </div>
+</div>
+<h5>Narrative adventure</h5>
 
 <iframe frameborder="0" src="https://itch.io/embed/3175738?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/terminus">Terminus by fkaWill</a></iframe>
 
-#### WROM
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Apartment 3A </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">December 2024</h4>
+    </div>
+</div>
+<h5>Horror exploration game</h5>
 
-#### Apartment 3A
+<iframe frameborder="0" src="https://itch.io/embed/3170800?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/apartment-3a">Apartment 3A by fkaWill, treesa</a></iframe>
 
-design patterns
+**Apartment 3A** was the final project for my Level Design & Game Architecture class. This class was focused on researching, creating, and applying specific design patterns to invoke specific ideas in a game. Our intent with this game was to create a creepy, unnerving, and depressing story told entirely through the environment in a short, 3-5 minute exploration game.
 
 <p>The design doc can be viewed
 <a href="/documents/apt3a.pdf">here</a>.</p>
 
-<iframe frameborder="0" src="https://itch.io/embed/3170800?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/apartment-3a">Apartment 3A by fkaWill, treesa</a></iframe>
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Happy Birthday </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">November 2024</h4>
+    </div>
+</div>
+<h5>Narrative adventure</h5>
 
-#### The Clock Struck as the Crow Flew (or whatever it's called I forget the name)
+<iframe frameborder="0" src="https://itch.io/embed/3108811?dark=true" width="800" height="167"><a href="https://fkawill.itch.io/happy-birthday">Happy Birthday by fkaWill</a></iframe>
+
+#### What Remains of Me
+
+#### The Clock Struck Midnight as the Crow Flew
 
 #### Alien Invasion
 
 #### The Waiting Game
 
-#### Ghost Game if you finish it
-
-#### Autodungeon (if you polish it up a bit)
+#### Autodungeon
