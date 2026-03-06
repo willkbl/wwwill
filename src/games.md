@@ -8,11 +8,25 @@ Sometimes, I make games. I've done many elements of the game design process, fro
 
 I have experience with many facets of the development process, including design, programming, writing, audio, marketing, and production. I'm trained in Agile/Scrum workflows (I've used quite a bit of Jira) and I pride myself on being organized and not blocking other people's work. I've taken classes in both level design and narrative design, and I've designed for tabletop games and board games as well as video games. I've also been known to both DM and play a few DnD campaigns from time to time.
 
-If you're interested in my programming abilities, you can find some more of my work (including the source code for this very website) on my [Github](https://github.com/willkbl). And if you'd like a more full account of my skills or want to see something specific, please reach out to me! I'm always happy to discuss my work or provide something further.
+If you're interested in my programming abilities, you can find some more of my work (including the source code for this very website) on my [Github](https://github.com/willkbl). And since I'm still fleshing out this website, if you'd like a more full account of my skills or want to see something specific, please reach out to me! I'm always happy to discuss my work or provide something further.
 
 ---
 
 ## my work
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
+    <div>
+        <h4> Trace </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">January 2026 - present</h4>
+    </div>
+</div>
+<h5>Level Design Lead</h5>
+
+Since January of this year, I have been working as the Level Design Lead on **Trace**, an upcoming indie project. Trace is a third person narrative adventure game taking place in an open world, made in Unreal Engine 5.
+
+As we're still in the early stages of development, I don't have much to show right now, but I'll continue to update as I do!
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10px;">
     <div>
