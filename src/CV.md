@@ -212,19 +212,20 @@ marketing, games, audio, etc.
 
 <h4 style="margin-top:-20px; margin-bottom: -15px;">Akupara Games</h4>
 
-- [Rain World]() - **Marketing Intern**
-- [Airframe Ultra]() [_Unreleased_] - **Marketing Intern**
-- [Dead Pets Unleashed]() [_Unreleased_] - **Marketing Intern**
-- [Echo Weaver]() [_Unreleased_] - **Marketing Intern**
-- [Future Vibe Check]() [_Unreleased_] - **Marketing Intern**
-- [GIGASWORD]() [_Unreleased_] - **Marketing Intern**
+- [Rain World](https://store.steampowered.com/app/312520/Rain_World/) - **Marketing Intern**
+- [Airframe Ultra](https://store.steampowered.com/app/2522120/Airframe_Ultra/) [_Unreleased_] - **Marketing Intern**
+- [Dead Pets](https://store.steampowered.com/app/1851720/Dead_Pets_A_Punk_Rock_Slice_of_Life_Sim/) - **Marketing Intern**
+- [Echo Weaver](https://store.steampowered.com/app/2184080/Echo_Weaver/) [_Unreleased_] - **Marketing Intern**
+- [Future Vibe Check](https://store.steampowered.com/app/3525890/Future_Vibe_Check/) [_Unreleased_] - **Marketing Intern**
+- [GIGASWORD](https://store.steampowered.com/app/1885930/GIGASWORD/) - **Marketing Intern**
 - [The Immortal John Triptych](https://store.steampowered.com/curator/41213029) - **Marketing Intern**
-- [Kumitantei: Old-School Slaughter]() [_Unreleased_] - **Marketing Intern**
-- [Montabi]() [_Unreleased_] - **Marketing Intern**
+- [Kumitantei: Old-School Slaughter](https://store.steampowered.com/app/2759280/Kumitantei_OldSchool_Slaughter/) [_Unreleased_] - **Marketing Intern**
+- [Montabi](https://store.steampowered.com/app/3141630/Montabi/) [_Unreleased_] - **Marketing Intern**
 
 <h4 style="margin-top:-15px; margin-bottom: -15px;">Other</h4>
 
 - [Pigeon Coo-lette](https://store.steampowered.com/app/3875840/Pigeon_Coolette/) - **Programmer, Trailer and Music**
+- [Spectra](https://store.steampowered.com/app/2592230/Spectra/) - **Voice Actor (Male Rebel 3)**
 
 ---
 

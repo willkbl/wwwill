@@ -124,11 +124,11 @@ This song is available on all streaming platforms.
     </div>
 </div>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0YTJh5Y7CWBZS1j4Aozk0T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Y-petvlwCS4?si=2aUJgpS_FVdbgz7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This song draws from a lot of inspirations outside of Valve's Half-Life 2, including more modern rock groups like Nine Inch Nails and Squid. I knew that I wanted to pay homage to HL2's (and HL: Alyx's) unique sound of industrial rock, although it was only pointed out to me after the song was almost finished that the intro sounds like a bunch of physics objects being tossed around in the titular Source Engine.
 
-This song is available on streaming platforms. I am currently working on a "music video" using Risk of Rain 2's gameplay to better showcase how the song fits the intended tone.
+This song is available on streaming platforms.
 
 &nbsp;
 
