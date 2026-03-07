@@ -7,14 +7,31 @@ title: "marketing"
 One of my areas of specialty is marketing, with a focus in copywriting and social media management. I spent 6 months as a Marketing Intern at [Akupara Games](https://www.akuparagames.com/), as well as a year as the Head of Marketing for the [Northeastern Shakespeare Society](https://www.instagram.com/shakespearenu).
 
 Here's what I've done:
-#### Akupara Games (video game publisher) - Marketing Intern (June - December 2025)
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px; margin-top: -20px">
+    <div>
+        <h4> Marketing Intern - Akupara Games </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">June - December 2025</h4>
+    </div>
+</div>
+
 - Wrote copy for over 200 posts for 12+ different games from the Akupara catalog
 - Pitched and executed multiple social media takeovers, shoutouts, video clips, and content calendars across 4 separate brand accounts
 - Created assets for use on Twitter, Bluesky, Instagram TikTok, YouTube Shorts, LinkedIn, GameJolt, and Threads
 - Credited on [_Rain World_](https://store.steampowered.com/app/312520/Rain_World/), [_Airframe Ultra_](https://store.steampowered.com/app/2522120/Airframe_Ultra/), [_GIGASWORD_](https://store.steampowered.com/app/1885930/GIGASWORD/), [_Echo Weaver_](https://store.steampowered.com/app/2184080/Echo_Weaver/), [_Montabi_](https://store.steampowered.com/app/3141630/Montabi/), [_Dead Pets Unleashed_](https://store.steampowered.com/app/1851720/Dead_Pets_Unleashed/), and [_Future Vibe Check_](https://store.steampowered.com/app/3525890/Future_Vibe_Check/)
 
 
-#### Northeastern Shakespeare Society (April 2024 - April 2025)
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -20px;">
+    <div>
+        <h4> Head of Marketing - Northeastern Shakespeare Society </h4> 
+    </div>
+    <div>
+        <h4 style="text-align: right;">April 2024 - April 2025</h4>
+    </div>
+</div>
+
 - Upheld our social media accounts/links and made graphics for a variety of club meetings, events, and announcements 
 - Coordinated event sign-ups, auditions, and event logistics
 - Worked on typesetting and designed posters and programs for our Fall and Spring shows during the academic year
