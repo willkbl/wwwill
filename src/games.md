@@ -103,7 +103,7 @@ As we're still in the early stages of development, I don't have much to show rig
         <h4 style="text-align: right;">Spring 2025</h4>
     </div>
 </div>
-<h5>Narrative adventure</h5>
+<h5>2D puzzle platformer</h5>
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/1818866" width="800"><a href="https://whatremainsofme.itch.io/what-remains-of-me">What Remains of Me - Alpha Ver. by Games@Northeastern Studio, AustinSzema</a></iframe>
 
