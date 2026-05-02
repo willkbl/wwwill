@@ -187,7 +187,10 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 
 <h3 style="margin-top: -20px; margin-bottom: -15px;"> General </h3>
 
-marketing, games, audio, etc.
+- Game Design, Level Design, Systems Design, Programming, Narrative Design, Writing
+- Music Composition, Music Production, Audio Engineering, Sound Design
+- Marketing, Social Media Marketing, Copywriting
+- Project Management, Task Management, Production
 
 <h3 style="margin-bottom: -15px;">Technical</h3>
 
@@ -214,7 +217,8 @@ marketing, games, audio, etc.
         <p><b><i>Software:</i></b></p>
     </div>
     <div>
-        <p>Unity | Unreal Engine 5 | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse</p>
+        <p>Unity | Unreal Engine 5 | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse | GSuite</p>
+        <p style="margin-top: -20px;">MS Office | Buffer</p>
     </div>
 </div>
 
