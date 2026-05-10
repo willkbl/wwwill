@@ -92,6 +92,18 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
     <div>
+        <h4> Teaching Assistant, <span style="font-weight:normal">Northeastern University, Boston, MA</span> </h4>
+    </div>
+    <div>
+        <h4 style="text-align: right;">January - April 2026</h4>
+    </div>
+</div>
+
+- Assisted in the teaching of CS2386 (Game Programming) at Northeastern
+- Held office hours, answered student questions, helped with troubleshooting, and graded projects
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
+    <div>
         <h4> Office Assistant, <span style="font-weight:normal">Northeastern University, Boston, MA</span> </h4>
     </div>
     <div>
@@ -175,7 +187,10 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 
 <h3 style="margin-top: -20px; margin-bottom: -15px;"> General </h3>
 
-marketing, games, audio, etc.
+- Game Design, Level Design, Systems Design, Programming, Narrative Design, Writing
+- Music Composition, Music Production, Audio Engineering, Sound Design
+- Marketing, Social Media Marketing, Copywriting
+- Project Management, Task Management, Production
 
 <h3 style="margin-bottom: -15px;">Technical</h3>
 
@@ -202,7 +217,8 @@ marketing, games, audio, etc.
         <p><b><i>Software:</i></b></p>
     </div>
     <div>
-        <p>Unity | Unreal Engine 5 | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse</p>
+        <p>Unity | Unreal Engine 5 | Git | Jira | FL Studio | VSCode | IntelliJ | Eclipse | GSuite</p>
+        <p style="margin-top: -20px;">MS Office | Buffer</p>
     </div>
 </div>
 

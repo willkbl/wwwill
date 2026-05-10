@@ -4,8 +4,8 @@
             <image src="/images/{{ image | default: "me.png" }}" alt="{{ title }}" width="130" height="130" style="margin-top: auto; margin-bottom: auto; max-width: 100%"></image>
         </div>
         <div class="song-info">
-            <h3 style="margin-top: 0px;">{{ artist }} - {{ title }}</h3> 
-            <p style="margin-top: -15px; margin-bottom: -20px;">release date: {{ release-date }}<br>
+            <h4 style="margin-top: 0px;">{{ artist }} - {{ title }}</h4> 
+            <p style="margin-top: -20px; margin-bottom: -20px;">{{ release-date }}<br>
             <br>
             <audio controls>
                 <source src="/music/{{ filename }}" type="audio/mpeg">
@@ -18,6 +18,6 @@
         </div>
     </div>
     <div>
-        <h3 style="text-align: right; margin-top: 0px;">{{ album }}</h3>
+        <h4 style="text-align: right; margin-top: 0px;">{{ album }}</h4>
     </div>
 </div>
