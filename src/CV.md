@@ -226,6 +226,7 @@ marketing, games, audio, etc.
 
 - [Pigeon Coo-lette](https://store.steampowered.com/app/3875840/Pigeon_Coolette/) - **Programmer, Trailer and Music**
 - [Spectra](https://store.steampowered.com/app/2592230/Spectra/) - **Voice Actor (Male Rebel 3)**
+- [Spell Slide](https://store.steampowered.com/app/3330410/Spell_Slide/) - **Puzzle Design - "R&G"**
 
 ---
 
