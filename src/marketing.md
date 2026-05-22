@@ -19,7 +19,7 @@ Here's what I've done:
 
 - Wrote copy for over 200 posts for 12+ different games from the Akupara catalog
 - Pitched and executed multiple social media takeovers, shoutouts, video clips, and content calendars across 4 separate brand accounts
-- Created assets for use on Twitter, Bluesky, Instagram TikTok, YouTube Shorts, LinkedIn, GameJolt, and Threads
+- Created assets for use on Twitter, Bluesky, Instagram, TikTok, YouTube Shorts, LinkedIn, GameJolt, and Threads
 - Credited on [_Rain World_](https://store.steampowered.com/app/312520/Rain_World/), [_Airframe Ultra_](https://store.steampowered.com/app/2522120/Airframe_Ultra/), [_GIGASWORD_](https://store.steampowered.com/app/1885930/GIGASWORD/), [_Echo Weaver_](https://store.steampowered.com/app/2184080/Echo_Weaver/), [_Montabi_](https://store.steampowered.com/app/3141630/Montabi/), [_Dead Pets Unleashed_](https://store.steampowered.com/app/1851720/Dead_Pets_Unleashed/), and [_Future Vibe Check_](https://store.steampowered.com/app/3525890/Future_Vibe_Check/)
 
 
