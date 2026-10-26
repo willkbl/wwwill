@@ -4,12 +4,13 @@ date-posted: "12/25/25"
 date: 2025-12-25
 ---
 
+<body class="blog">
+
+
 #### {{title}}
 ##### {{date-posted}}
 
 **The following contains minor spoilers for Clair Obscur: Expedition 33.**
-
-_editor's note: I wrote this in one sitting. It's not great._
 
 ---
 
@@ -60,3 +61,6 @@ The world of Clair Obscur is a painting. The world of the game and the game are 
 I like to know that real people made my game. I like to know that it was hard, and that it took time and effort and dedication. I like to know that they couldn’t make something perfect - and they decided to give it to us anyway. If you really pour your soul into a piece of art, it won’t be perfect. It shouldn’t be.
 
 ![Some bodies of former Expeditioners, encased in resin, preserved in death](/images/fl-6.jpg)
+
+
+</body>
