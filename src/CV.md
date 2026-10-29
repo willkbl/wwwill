@@ -9,6 +9,9 @@ title: "CV"
             margin-bottom: 0px;
             color: rgba(0, 0, 0, 1);
         }
+        /*body * {
+            font-size: 0.9em;
+        }*/
         a {
             color: rgba(0, 0, 0, 1);
         }
@@ -68,13 +71,53 @@ title: "CV"
     </div>
 </div>
 
-_**Relevant Coursework:**_ Object Oriented Design, Algorithms & Data, Computer Systems, Distributed Systems, Rapid Idea Prototyping, Game Studio, Level Design & Game Architecture, Narrative for Games, Music & Audio for Video Games, Designing Imaginary Worlds, Game Artificial Intelligence, Game Concept Development
+_**Relevant Coursework:**_ Object Oriented Design, Algorithms & Data, Computer Systems, Distributed Systems, Rapid Idea Prototyping, Game Studio, Level Design & Game Architecture, Narrative for Games, Music & Audio for Video Games, Designing Imaginary Worlds, Game Artificial Intelligence, Game Concept Development, Software Engineering, TTRPG Design, Experimental Game Design
 
-_**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketing), Music Production Club, Game Development Club, FIRST Robotics 
+_**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketing), Music Production Club, Game Development Club, FIRST Robotics
 
 ---
 
 ## Work Experience
+
+<!-- add dillo and trapology -->
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
+    <div>
+        <h4> Game Guide, <span style="font-weight:normal">Trapology, Boston, MA</span> </h4>
+    </div>
+    <div>
+        <h4 style="text-align: right;">May 2026 - Present</h4>
+    </div>
+</div>
+
+- Run escape room games for customers, providing live hints and assistance
+- Help customers book games, check in for their games, and answer any questions they have
+- Reset and check rooms after games, dealing with technical/logistical issues as they arise
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
+    <div>
+        <h4> Social Media Marketing Intern, <span style="font-weight:normal">Dillo Interactive, remote</span> </h4>
+    </div>
+    <div>
+        <h4 style="text-align: right;">June 2026 - October 2026</h4>
+    </div>
+</div>
+
+- Managed social media channels for indie game developer Dillo Interactive on their title Creepy Horrors: Blood Cult 2
+- Wrote, recorded, edited, and scheduled content for Tiktok, Instagram, YouTube Shorts, and X/Twitter
+- Playtested and provided actionable feedback on the game while in development
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
+    <div>
+        <h4> Teaching Assistant, <span style="font-weight:normal">Northeastern University, Boston, MA</span> </h4>
+    </div>
+    <div>
+        <h4 style="text-align: right;">January - April 2026</h4>
+    </div>
+</div>
+
+- Assisted in the teaching of CS2386 (Game Programming) at Northeastern
+- Held office hours, answered student questions, helped with troubleshooting, and graded projects
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
     <div>
@@ -89,18 +132,6 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 - Wrote promotional material and social media posts for upcoming games & other company concerns
 - Spearheaded multiple social media initiatives, including takeovers, shoutouts, video clips, and content calendars
 - Credited on _Rain World_, _Airframe Ultra_, _GIGASWORD_, _Echo Weaver_, _Montabi_, _Dead Pets Unleashed_, and _Future Vibe Check_
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
-    <div>
-        <h4> Teaching Assistant, <span style="font-weight:normal">Northeastern University, Boston, MA</span> </h4>
-    </div>
-    <div>
-        <h4 style="text-align: right;">January - April 2026</h4>
-    </div>
-</div>
-
-- Assisted in the teaching of CS2386 (Game Programming) at Northeastern
-- Held office hours, answered student questions, helped with troubleshooting, and graded projects
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -35px; margin-top: -35px;">
     <div>
@@ -124,7 +155,7 @@ _**Activities:**_ Northeastern Shakespeare Society (_President_, Head of Marketi
 </div>
 
 - Completed daily IT support tasks and resolved help requests from students and teachers
-- Managed a total reset/cataloging of all school devices  for students to use the following year
+- Managed a total reset/cataloging of all school devices for students to use the following year
 
 ---
 
